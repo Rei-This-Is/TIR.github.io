@@ -1,0 +1,12 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>私のサイト</title>
+</head>
+<body>
+  <h1>こんにちは GitHub Pages！</h1>
+  <p>これが私の初めてのWebページです。</p>
+</body>
+</html>
